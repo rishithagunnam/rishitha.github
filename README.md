@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Rishitha — Cyber Security | CEH | Security+ | VAPT
+# 👋 Hi, I'm Rishitha — CyberSecurity | CEH | Security+ | VAPT
 
-🔐 **Cybersecurity Engineer** with hands-on experience in **Web & Mobile Application Security**, **Vulnerability Assessment**, **Penetration Testing**, and **Cloud Security**. Passionate about identifying real-world threats and building secure-by-design systems.
+🔐 **Cybersecurity Engineer** with hands-on experience in **Web Application Security**, **Vulnerability Assessment**, **Penetration Testing**, and **Cloud Security**. Passionate about identifying real-world threats and building secure-by-design systems.
 
 ---
 
@@ -17,7 +17,7 @@
 ---
 
 ## 👩‍💻 Current Role
-**Cyber Security Engineer** at **Macy’s via CyberOne**  
+**Cybersecurity Engineer** at **CyberOne LLC**  
 Leading Vulnerability Assessments, Penetration Testing, Threat Modeling, and Secure Code Review for critical enterprise applications and APIs.
 
 ---
@@ -26,6 +26,7 @@ Leading Vulnerability Assessments, Penetration Testing, Threat Modeling, and Sec
 - Offensive Security (Manual Ethical Hacking)
 - Cloud Incident Response & Threat Modeling
 - Application Security
+- Threat Modelling
 - Zero Trust Architecture (ZTNA)
 - Security Automation & Scripting
 - Building custom scripts for automation in pentesting
@@ -70,7 +71,7 @@ Leading Vulnerability Assessments, Penetration Testing, Threat Modeling, and Sec
 
 ## 🏆 Accomplishments
 
-- 🏅 **National Engineering Olympiad **  
+- 🏅 **National Engineering Olympiad**  
   Competed in a prestigious technical competition showcasing engineering and analytical skills.
 
 - 🗣️ **Wynfluenz – Certificate in Communication Skills**  
