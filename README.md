@@ -52,7 +52,6 @@ Leading Vulnerability Assessments, Penetration Testing, Threat Modeling, and Sec
 - 🌐 **Introduction to Web Development**
 - 🗃️ **Database Management Essentials**
 - 🛠️ **Software Development Process & Methodologies**
-- 🧠 **Pursuing CISSP** (Expected 2025)
 
 ---
 
