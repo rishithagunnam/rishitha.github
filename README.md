@@ -39,7 +39,7 @@ Leading Vulnerability Assessments, Penetration Testing, Threat Modeling, and Sec
 
 - 🛡️ **CEH**
 - 🔐 **Security+**
-- ☁️ **AZ-500**, **MS-500**, **SC-200**, **SC-300**, **SC-400**, **SC-900**
+- ☁️ **Microsoft Azure Security Technologies - AZ-500**, **Microsoft 365 Security Administration - MS-500**, **Microsoft Security Operations Analyst - SC-200**, **Microsoft Identity Management Solution - SC-300**, **Microsoft Information Protection Administrator - SC-400**, **Microsoft Security, Compliance, and Identity Fundamentals - SC-900**
 - 🛡️ **Zscaler Cloud Fundamentals**
 - 🔐 **Cryptography**
 - 🐍 **Python Data Structures**
